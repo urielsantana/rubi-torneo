@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1>Rubi Guanajuato</h1>
-  <img src="rubi.png" alt="Logo del torneo">
+  <img src="-RUBII-.png" alt="Logo del torneo">
 </body>
 </html>
